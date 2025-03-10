@@ -1,0 +1,1 @@
+# Margaretta-Angela-Manullang_Tugas_Modul_02.py
